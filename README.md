@@ -3,16 +3,25 @@ FlavorQuest is a recipe finder web application that allows users to discover a w
 
 Features
 Ingredient Search: Search for recipes by entering your favorite ingredients or dishes.
+
 Vast Recipe Database: Access a vast database of recipes covering various cuisines and dietary preferences.
+
 Recipe Details: View detailed information for each recipe, including ingredients, instructions, and images.
+
 Interactive Experience: Engage with recipes through a visually appealing and user-friendly interface.
+
 Modal View: Conveniently view recipe details in a modal window without leaving the main page.
+
 Responsive Design: Enjoy a seamless browsing experience across devices, including desktops, tablets, and mobile phones.
+
+
 Technologies Used
 HTML5
 CSS3 (Bootstrap framework)
 JavaScript (including Fetch API for API requests)
-Spoonacular API for recipe data
+spoonacular API for recipe data
+
+
 How to Use
 Enter your desired ingredients or dishes in the search bar.
 Click on the "Search" button to find matching recipes.
