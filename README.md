@@ -22,7 +22,8 @@ JavaScript (including Fetch API for API requests)
 spoonacular API for recipe data
 
 
-How to Use
+How to Use:
+
 Enter your desired ingredients or dishes in the search bar.
 Click on the "Search" button to find matching recipes.
 Browse through the search results to discover new recipes.
